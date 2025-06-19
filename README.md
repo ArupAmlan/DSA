@@ -10,6 +10,13 @@
 2. [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 3. [Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 
-## 📌 Notes:
-- Practiced writing clean `def` based solutions
-- Used loops, if-conditions, and lists effectively
+# Day 2 - Searching
+
+## ✅ Topics Covered:
+- Linear Search
+- Binary Search
+- Searching in sorted and unsorted arrays
+
+## ✅ LeetCode Problems Solved:
+1. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+2. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/1669112209/)
